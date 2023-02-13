@@ -5,4 +5,4 @@ Algoritmo desenvolvido com Machine Learning e com a tecnica de TransferLearning 
 
 ## Como rodar o algoritmo 
 
-<p>Para rodar o projeto acesse o nosso <a href="https://colab.research.google.com/drive/1kdcaa8v5vsj2CBqluU6dh1xGvuU9nMmb?hl=pt_BR">Google Colaboratory.</a></p>
+<p>Para rodar o projeto acesse o <a href="https://colab.research.google.com/drive/1kdcaa8v5vsj2CBqluU6dh1xGvuU9nMmb?hl=pt_BR">Google Colaboratory.</a></p>

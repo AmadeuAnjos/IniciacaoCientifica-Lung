@@ -1,4 +1,4 @@
-### Pesquisa de Iniciação Cientifica.
+### Pesquisa de Iniciação Cientifica e Tecnologica. 
 
 Algoritmo desenvolvido com Machine Learning e com a tecnica de TransferLearning com camadas convulocionais para detecção de imagens pulmonar. O intuito do desenvolvimento desse algoritmo é para auxiliar a área médica hospitalar.
 

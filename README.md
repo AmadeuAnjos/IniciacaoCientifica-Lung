@@ -7,4 +7,4 @@ Algoritmo desenvolvido com Machine Learning e com a tecnica de TransferLearning 
 
 <p>Para rodar o projeto acesse o <a href="https://colab.research.google.com/drive/1kdcaa8v5vsj2CBqluU6dh1xGvuU9nMmb?hl=pt_BR">Google Colaboratory.</a></p>
 
-## Essa pesquisa teve como reconhecimento o premio de melhor pesquisa de todos os campos em território nacional da univerisade.
+## Essa pesquisa teve como reconhecimento o premio de melhor pesquisa de todos os campos em território nacional da universidade.
